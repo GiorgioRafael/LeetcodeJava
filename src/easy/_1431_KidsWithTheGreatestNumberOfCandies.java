@@ -13,7 +13,7 @@ public class _1431_KidsWithTheGreatestNumberOfCandies {
     candies[3] = 1;
     candies[4] = 3;
 
-    int extraCandies = 3;
+    int extraCandies = 1;
 
 
         List<Boolean> tentativa = new ArrayList<>();
